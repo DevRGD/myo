@@ -5,9 +5,9 @@
   "scripts": {
     "dev": "rm -rf .next && next dev --turbopack",
     "build": "next build",
+    "postbuild": "next-sitemap",
     "start": "next start",
-    "lint": "next lint",
-    "postbuild": "next-sitemap"
+    "lint": "next lint"
   },
   "dependencies": {
     "@prisma/client": "^6.5.0",
