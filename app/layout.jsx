@@ -6,6 +6,9 @@ export const metadata = {
   title: 'Manage Your Office – Organize Tasks, Track Progress, and Boost Productivity',
   description:
     'Easily manage office tasks, assign work, and track progress in real-time. Perfect for employees, managers, and CEOs looking to boost efficiency and stay organized effortlessly.',
+  verification: {
+    google: '_-PU493YxWEYMk6eON2Vk4eZDAX7AxEmIDYQiYdQKjw',
+  },
   keywords: [
     'Office Task Management',
     'Team Collaboration Software',
